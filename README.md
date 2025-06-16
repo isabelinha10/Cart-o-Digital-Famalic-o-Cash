@@ -21,4 +21,4 @@ Bem-vindo ao projeto Famalicão Cash, um cartão digital que oferece informaçõ
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/famalicao-cash.git
+   git clone https://github.com/isabelinha10/famalicao-cash.git
